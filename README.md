@@ -38,7 +38,7 @@ Topics like virtualization, distributed systems, and OS security will be added a
 To explore the code and exercises in this repository:
 
  1. Clone the repository:
-    - git clone https://github.com/ankita34359/Operating-System-Concepts-and-Practical-Exercises.git
+    git clone https://github.com/ankita34359/Operating-System-Concepts-and-Practical-Exercises.git
  2. Navigate to the specific folder of the topic you're interested in (e.g., Processes/ or Memory Management/).
  3. Compile and run the programs or scripts provided using a compatible compiler or interpreter:
 
