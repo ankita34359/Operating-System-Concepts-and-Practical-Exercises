@@ -34,7 +34,7 @@ Implements concepts like process synchronization, semaphores, deadlocks, and mul
 - Advanced Topics/:
 Topics like virtualization, distributed systems, and OS security will be added as I progress.
 
-Getting Started
+# Getting Started
 To explore the code and exercises in this repository:
 
  1. Clone the repository:
