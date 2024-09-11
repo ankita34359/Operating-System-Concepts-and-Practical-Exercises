@@ -6,10 +6,10 @@ Welcome to my Operating System (OS) Learning Journey repository! This repository
 
 This repository contains the following:
 
- -Theoretical concepts and explanations of key Operating System topics.
- -Practical code implementations that demonstrate system-level programming techniques.
- -Solutions to exercises and hands-on tasks to reinforce learning.
- -Gradual progression from basic OS theory to advanced topics like memory management, process scheduling, file systems, and synchronization.
+ - Theoretical concepts and explanations of key Operating System topics.
+ - Practical code implementations that demonstrate system-level programming techniques.
+ - Solutions to exercises and hands-on tasks to reinforce learning.
+ - Gradual progression from basic OS theory to advanced topics like memory management, process scheduling, file systems, and synchronization.
 
 ## Repository Structure
 
@@ -29,7 +29,7 @@ Covers topics such as paging, segmentation, virtual memory, and memory allocatio
 - File Systems/:
 Discusses file handling, directory structures, and disk scheduling algorithms.
 
-Concurrency and Synchronization/:
+- Concurrency and Synchronization/:
 Implements concepts like process synchronization, semaphores, deadlocks, and multithreading.
 
 - Advanced Topics/:
