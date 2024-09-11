@@ -1,5 +1,4 @@
-# Operating-System-Concepts-and-Practical-Exercises
-
+# Operating System Concepts and Practical Exercises
 Welcome to my Operating System (OS) Learning Journey repository! This repository serves as a collection of concepts, exercises, and practical examples related to my study of Operating Systems. The content will range from basic OS concepts to advanced system programming, including practical coding exercises to deepen my understanding.
 
 ## Overview
