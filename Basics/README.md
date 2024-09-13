@@ -2,7 +2,7 @@
 
 Welcome to my Operating System (OS) Learning Journey repository! This space documents my understanding of the foundational concepts of Operating Systems, including practical exercises and real-world examples to illustrate key ideas. While this section does not contain code, it explains why an OS is crucial for the efficient functioning of our devices.
 
-# Why Do We Need an Operating System?
+## Why Do We Need an Operating System?
 
 Imagine you are using two popular apps on your device, TikTok and PUBG, at the same time. Without an Operating System, these two apps would struggle to share resources like CPU, GPU, memory, and disk space, leading to several problems. Let's explore how the OS solves these problems:
 
