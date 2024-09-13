@@ -35,7 +35,6 @@ An Operating System (OS) is a software layer that sits between the hardware and 
 - Security and Protection: Protects system resources and data from unauthorized access or interference.
 - User Interface: Provides a way for users to interact with the system, either through command-line interfaces (CLI) or graphical user interfaces (GUI).
 
-Stay tuned as I add more content and practical examples to deepen my understanding of Operating Systems!
 
 ## Contact
 If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
@@ -43,4 +42,4 @@ If you have any questions, suggestions, or would like to discuss OS concepts, fe
 - GitHub: https://github.com/ankita34359
 - Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
 
-
+Stay tuned as I add more content and practical examples to deepen my understanding of Operating Systems!
