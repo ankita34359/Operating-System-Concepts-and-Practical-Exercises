@@ -49,5 +49,6 @@ This repository is primarily for personal learning, but I am open to feedback, s
 ## Contact
 If you’d like to discuss any of the concepts or exercises, feel free to reach out:
 
-GitHub: @ankita34359
+GitHub: https://github.com/ankita34359
+Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
 
