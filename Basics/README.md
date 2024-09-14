@@ -9,13 +9,11 @@ Welcome to the **Basics** section of the **Operating System Concepts and Practic
 - Problems happen in the absence of OS
 - Basic Functions of an OS (Interface, Resource Management)
 
----
 
 Each lecture contains detailed explanations, diagrams, and practical examples to help you understand the concepts better. You can click on each lecture to explore the full content and start learning.
 
 Feel free to explore the content, and don't hesitate to contribute by adding your notes or sharing your knowledge!
 
----
 
 **Happy Learning!**
 
