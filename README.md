@@ -10,7 +10,7 @@ This repository contains the following:
 - Practical code implementations that demonstrate system-level programming techniques.
 - Solutions to exercises and hands-on tasks to reinforce learning.
 - Gradual progression from basic OS theory to advanced topics like memory management, process scheduling, file systems, and synchronization.
-- 
+  
 ## Repository Structure
 The repository will evolve as I progress through the learning process. It is divided into units and Letures, each representing a different aspect of OS concepts and practical exercises.
 
