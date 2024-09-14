@@ -19,6 +19,6 @@ Feel free to explore the content, and don't hesitate to contribute by adding you
 
 **Happy Learning!**
 
-**Repository:** [Operating System Concepts and Practical Exercises](https://github.com/ankita34359/Operating-System-Concepts-and-Practical-Exercises)
-**GitHub:** https://github.com/ankita34359
-**Linkedin:** https://www.linkedin.com/in/ankita-gupta-34359abcd/
+- **Repository:** [Operating System Concepts and Practical Exercises](https://github.com/ankita34359/Operating-System-Concepts-and-Practical-Exercises)
+- **GitHub:** https://github.com/ankita34359
+- **Linkedin:** https://www.linkedin.com/in/ankita-gupta-34359abcd/
