@@ -1,55 +1,70 @@
-# Operating System Concepts and Practical Exercises
-Welcome to my Operating System (OS) Learning Journey repository! This repository serves as a collection of concepts, exercises, and practical examples related to my study of Operating Systems. The content will range from basic OS concepts to advanced system programming, including practical coding exercises to deepen my understanding.
+# Basics of Operating Systems
 
-## Overview
+Welcome to the **Basics** section of the **Operating System Concepts and Practical Exercises** repository. This section contains introductory lectures to help you build a strong foundation in Operating Systems. Below is an outline of the lectures and the key topics they cover.
 
-This repository contains the following:
+## Lecture Outline:
 
- - Theoretical concepts and explanations of key Operating System topics.
- - Practical code implementations that demonstrate system-level programming techniques.
- - Solutions to exercises and hands-on tasks to reinforce learning.
- - Gradual progression from basic OS theory to advanced topics like memory management, process scheduling, file systems, and synchronization.
+### Lecture 1: Introduction to Operating Systems
+- What is an Operating System?
+- History and Evolution of Operating Systems
+- Basic Functions of an OS (Interface, Resource Management)
+- Types of Operating Systems (Brief Overview)
 
-## Repository Structure
+### Lecture 2: Types of Operating Systems
+- Batch Operating System
+- Time-Sharing Operating System
+- Distributed Operating System
+- Real-Time Operating System
+- Embedded Operating System
 
-The repository will evolve as I progress through the learning process. It is divided into units or sections, each representing a different aspect of OS concepts and practical exercises.
+### Lecture 3: Multi Tasking vs Multi Threading
+- Definition of Multi Tasking
+- Definition of Multi Threading
+- Differences Between Multi Tasking and Multi Threading
+- Advantages and Disadvantages of Both
 
-Folder Structure:
+### Lecture 4: Components of an Operating System
+- Process Management
+- Memory Management
+- File System Management
+- I/O System Management
+- Security and Protection
 
- - Basics/:
-Contains foundational concepts such as the role of an Operating System, types of OS, and basic command-line operations.
+### Lecture 5: System Calls
+- Definition of System Calls
+- Types of System Calls:
+  - Process Control
+  - File Management
+  - Device Management
+  - Communication
+- Examples of System Calls in Different Operating Systems (Linux, Windows)
 
- - Processes/:
-Includes examples and code related to process management, including process creation, scheduling, and communication.
+### Lecture 6: Process and Threads
+- What is a Process?
+- What is a Thread?
+- Process Lifecycle
+- Multithreading Concepts
 
-- Memory Management/:
-Covers topics such as paging, segmentation, virtual memory, and memory allocation strategies.
+### Lecture 7: Process Scheduling
+- Scheduling Algorithms (FCFS, SJF, Priority, Round-Robin)
+- Schedulers (Long-Term, Short-Term, Medium-Term)
+- Criteria for Process Scheduling (Throughput, Turnaround Time, etc.)
 
-- File Systems/:
-Discusses file handling, directory structures, and disk scheduling algorithms.
+### Lecture 8: Memory Management
+- Types of Memory (RAM, Cache, Virtual Memory)
+- Paging and Segmentation
+- Page Replacement Algorithms (FIFO, LRU)
 
-- Concurrency and Synchronization/:
-Implements concepts like process synchronization, semaphores, deadlocks, and multithreading.
+---
 
-- Advanced Topics/:
-Topics like virtualization, distributed systems, and OS security will be added as I progress.
+Each lecture contains detailed explanations, diagrams, and practical examples to help you understand the concepts better. You can click on each lecture to explore the full content and start learning.
 
-# Getting Started
-To explore the code and exercises in this repository:
+Feel free to explore the content, and don't hesitate to contribute by adding your notes or sharing your knowledge!
 
- 1. Clone the repository:
-    git clone https://github.com/ankita34359/Operating-System-Concepts-and-Practical-Exercises.git
- 2. Navigate to the specific folder of the topic you're interested in (e.g., Processes/ or Memory Management/).
- 3. Compile and run the programs or scripts provided using a compatible compiler or interpreter:
+---
 
-# Contributions
-This repository is primarily for personal learning, but I am open to feedback, suggestions, and improvements. Feel free to open a pull request or issue if you find something that can be improved!
+**Happy Learning!**
 
-# Contact
-If you’d like to discuss any of the concepts or exercises, feel free to reach out:
+**Author:** Ankita
 
- - GitHub: https://github.com/ankita34359
- - Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
-
-# 
-Thank you for visiting my repository! Stay tuned as I continue to upload more content and progress through my Operating System studies.
+**Repository:** [Operating System Concepts and Practical Exercises](https://github.com/ankita34359/Operating-System-Concepts-and-Practical-Exercises)
