@@ -42,7 +42,6 @@ To explore the code and exercises in this repository:
 - Navigate to the specific folder of the topic you're interested in (e.g., Processes/ or Memory Management/).
 
 - Compile and run the C programs or scripts provided using a compatible compiler or interpreter:
-- For shell scripts or other OS-related tools, follow instructions within the relevant folder.
 
 ## Contributions
 This repository is primarily for personal learning, but I am open to feedback, suggestions, and improvements. Feel free to open a pull request or issue if you find something that can be improved!
@@ -50,6 +49,6 @@ This repository is primarily for personal learning, but I am open to feedback, s
 ## Contact
 If you’d like to discuss any of the concepts or exercises, feel free to reach out:
 
-GitHub: https://github.com/ankita34359
-Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
+- GitHub: https://github.com/ankita34359
+- Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
 
