@@ -9,5 +9,15 @@ Operating Systems (OS) are essential in managing both hardware and software reso
 - Prioritize Critical Tasks: It ensures that high-priority tasks are executed promptly, especially in time-sensitive applications.
 
  ## 1. Single-Process Operating System
-- Definition: Only one process can execute at a time from the ready queue.
-- Example: This is the oldest form of an operating system.
+
+### Overview
+A Single-Process OS, also known as a Monolithic Operating System, allows only one process to execute at any given time. This type of system was widely used in the early days of computing.
+
+### Key Characteristics
+- Single Process Execution: Only one process can be active and execute at any time from the ready queue.
+- Oldest OS Model: This is one of the simplest and earliest types of operating systems.
+  
+### Limitations
+- Poor Utilization of CPU: During I/O operations, the CPU remains idle, leading to inefficiency.
+- No Parallelism: Only one task can be performed at a time, which reduces overall system productivity.
+
