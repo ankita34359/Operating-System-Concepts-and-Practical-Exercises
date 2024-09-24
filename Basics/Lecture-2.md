@@ -136,3 +136,12 @@ A Real-Time Operating System (RTOS) is designed to execute tasks within stringen
 ### Limitations
 - Limited Flexibility: RTOS is highly specialized, focusing on meeting real-time constraints, which may limit general-purpose functionality.
 
+This document provides a comprehensive overview of different types of operating systems, highlighting their key characteristics, advantages, and limitations. Each type of OS plays a critical role in specific environments, from personal computing to large-scale distributed systems.
+
+## Contact
+If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
+
+- GitHub: https://github.com/ankita34359
+- Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
+  
+Stay tuned as I add more content and practical examples to deepen my understanding of Operating Systems!
