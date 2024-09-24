@@ -78,3 +78,20 @@ Multitasking is an evolution of multiprogramming that allows for the simultaneou
 - Overhead of Switching: The constant context switching can introduce some performance overhead.
 - Complex Scheduling: Managing multiple tasks and ensuring fairness can become complex.
 
+## 5. Multiprocessing Operating System
+
+### Overview
+Multiprocessing OSs utilize multiple CPUs (or cores) within the same system to execute multiple processes simultaneously, enhancing performance and reliability.
+
+### Key Characteristics
+- Multiple CPUs: More than one CPU (or core) can handle tasks at the same time.
+- Parallel Execution: Different CPUs can execute different processes concurrently, improving throughput.
+- Increased Reliability: If one CPU fails, the system can continue functioning using the other available CPUs.
+  
+### Advantages
+- Better Throughput: With multiple CPUs working simultaneously, the system can handle more processes at once.
+- Reduced Starvation: With more CPUs, there is less chance of process starvation, as other CPUs can take on tasks if one is busy.
+- Improved Fault Tolerance: The failure of one CPU does not halt system operations, providing a fail-safe.
+  
+### Limitations
+- Cost and Complexity: Multiprocessing systems are more expensive to implement and require sophisticated coordination between CPUs.
