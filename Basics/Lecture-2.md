@@ -40,3 +40,23 @@ Batch Processing OS collects similar jobs and processes them in groups or "batch
 - Lack of Prioritization: The system does not allow for real-time prioritization of tasks. If a critical job arrives, it has to wait for its turn in the batch.
 - Potential Starvation: Some jobs may experience long wait times if a batch is processing slower tasks.
 - Idle CPU During I/O: The CPU may go idle during lengthy I/O operations, reducing efficiency.
+
+## 3. Multiprogramming Operating System
+
+### Overview
+A Multiprogramming OS enhances CPU utilization by holding multiple jobs in memory simultaneously. When one job is waiting (e.g., for I/O operations), another is ready to use the CPU.
+
+### Key Characteristics
+- Single CPU: The system still operates with one CPU but handles multiple jobs in memory concurrently.
+- Context Switching: The OS switches between jobs, allocating the CPU to whichever process is ready for execution. Context switching occurs when a process moves to a waiting state (e.g., during I/O).
+- Maximizes CPU Usage: The goal is to keep the CPU busy by minimizing idle time.
+  
+### Advantages
+- Improved Efficiency: While one process waits, another can execute, making better use of system resources.
+- Minimized Idle Time: By quickly switching between processes, the OS reduces CPU downtime.
+  
+### Limitations
+- Complex Management: Handling multiple processes requires more sophisticated scheduling algorithms and memory management.
+- Overhead of Context Switching: Although effective, context switching adds overhead to the system, reducing overall processing speed.
+
+  
