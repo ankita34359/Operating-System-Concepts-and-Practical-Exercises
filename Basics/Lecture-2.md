@@ -21,3 +21,22 @@ A Single-Process OS, also known as a Monolithic Operating System, allows only on
 - Poor Utilization of CPU: During I/O operations, the CPU remains idle, leading to inefficiency.
 - No Parallelism: Only one task can be performed at a time, which reduces overall system productivity.
 
+## 2. Batch Processing Operating System
+
+### Overview
+Batch Processing OS collects similar jobs and processes them in groups or "batches" without user interaction during the processing. This system was designed to minimize idle CPU time.
+
+### Operation Workflow
+- Job Preparation: Users prepare their jobs (historically using punch cards) and submit them to the computer operator.
+- Job Sorting: The operator collects jobs from various users and sorts them into batches based on similar resource needs (e.g., I/O, CPU).
+- Batch Submission: The batches are sequentially submitted to the processor for execution.
+- Execution: All jobs in a batch are executed one after the other.
+  
+### Key Characteristics
+- No Direct User Interaction: Once the jobs are submitted, they are executed without further user intervention.
+- Job Grouping: Jobs with similar requirements are grouped to minimize setup time and resource reallocation.
+  
+### Limitations
+- Lack of Prioritization: The system does not allow for real-time prioritization of tasks. If a critical job arrives, it has to wait for its turn in the batch.
+- Potential Starvation: Some jobs may experience long wait times if a batch is processing slower tasks.
+- Idle CPU During I/O: The CPU may go idle during lengthy I/O operations, reducing efficiency.
