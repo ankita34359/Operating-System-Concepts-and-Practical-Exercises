@@ -114,3 +114,25 @@ A Distributed Operating System manages a collection of independent, networked co
 ### Limitations
 - Complex Management: Managing communication, data sharing, and coordination between distributed nodes adds significant complexity.
 - Security Risks: Distributed systems are more vulnerable to security threats due to their interconnected nature.
+
+## 7. Real-Time Operating System (RTOS)
+
+### Overview
+A Real-Time Operating System (RTOS) is designed to execute tasks within stringent timing constraints, making it ideal for time-sensitive applications like embedded systems, robotics, and real-time simulations.
+
+### Key Characteristics
+- Deterministic Execution: RTOS ensures that specific tasks are completed within defined time limits, essential for real-time applications.
+- Multiple Resources: Similar to Distributed OS, RTOS may manage multiple resources like CPUs, memory, and GPUs.
+- Time Boundaries: Tight control over process execution times to avoid delays in critical operations.
+  
+### Applications
+- Air Traffic Control Systems: Ensures real-time response for managing aircraft routes and traffic.
+- Robotics: Provides accurate and timely control for robotic actions, which is crucial in industrial automation and robotics.
+  
+### Advantages
+- Predictability: Guarantees that critical tasks are executed within their deadline.
+- Error Minimization: Designed for environments where errors in timing could result in system failure or safety risks.
+  
+### Limitations
+- Limited Flexibility: RTOS is highly specialized, focusing on meeting real-time constraints, which may limit general-purpose functionality.
+
