@@ -95,3 +95,22 @@ Multiprocessing OSs utilize multiple CPUs (or cores) within the same system to e
   
 ### Limitations
 - Cost and Complexity: Multiprocessing systems are more expensive to implement and require sophisticated coordination between CPUs.
+
+## 6. Distributed Operating System
+
+### Overview
+A Distributed Operating System manages a collection of independent, networked computers that work together as a single system. It coordinates tasks across multiple interconnected nodes, making resources such as CPUs, memory, and storage available to the entire system.
+
+### Key Characteristics
+- Multiple Resources: Involves the management of multiple CPUs, memory units, GPUs, etc.
+- Loosely Connected Nodes: The system consists of independent and autonomous nodes connected via a network.
+- Shared Resources: Nodes communicate with each other to share resources and tasks.
+  
+### Advantages
+- Scalability: Distributed systems can scale easily by adding more nodes.
+- Fault Tolerance: If one node fails, others can take over its tasks, ensuring continued operation.
+- Resource Sharing: Users benefit from shared resources across the network.
+  
+### Limitations
+- Complex Management: Managing communication, data sharing, and coordination between distributed nodes adds significant complexity.
+- Security Risks: Distributed systems are more vulnerable to security threats due to their interconnected nature.
