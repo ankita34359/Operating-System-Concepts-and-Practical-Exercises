@@ -59,4 +59,22 @@ A Multiprogramming OS enhances CPU utilization by holding multiple jobs in memor
 - Complex Management: Handling multiple processes requires more sophisticated scheduling algorithms and memory management.
 - Overhead of Context Switching: Although effective, context switching adds overhead to the system, reducing overall processing speed.
 
+## 4. Multitasking Operating System
+
+### Overview
+Multitasking is an evolution of multiprogramming that allows for the simultaneous execution of multiple tasks (or processes) by rapidly switching between them. This switching is so fast that users perceive tasks as running concurrently.
+
+### Key Characteristics
+- Single CPU: Multitasking OS typically uses a single CPU to run multiple tasks.
+- Time Sharing: The system allocates small time slices to each task, ensuring they all get CPU time.
+- Context Switching: The CPU switches between tasks frequently to maintain the illusion of concurrent execution.
+- Increased Responsiveness: By allowing multiple applications to run "simultaneously," the system appears more responsive to user commands.
   
+### Advantages
+- Better User Experience: Multitasking enhances responsiveness, allowing users to switch between applications without delay.
+- Maximized CPU Utilization: The time-sharing approach ensures that no task monopolizes the CPU.
+  
+### Limitations
+- Overhead of Switching: The constant context switching can introduce some performance overhead.
+- Complex Scheduling: Managing multiple tasks and ensuring fairness can become complex.
+
