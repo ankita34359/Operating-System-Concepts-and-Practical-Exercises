@@ -16,23 +16,8 @@ The repository will evolve as I progress through the learning process. It is div
 
 ## Folder Structure:
 
-- Basics/:
-Contains foundational concepts such as the role of an Operating System, types of OS, and basic command-line operations.
-
-- Processes/:
-Includes examples and code related to process management, including process creation, scheduling, and communication.
-
-- Memory Management/:
-Covers topics such as paging, segmentation, virtual memory, and memory allocation strategies.
-
-- File Systems/:
-Discusses file handling, directory structures, and disk scheduling algorithms.
-
-- Concurrency and Synchronization/:
-Implements concepts like process synchronization, semaphores, deadlocks, and multithreading.
-
-- Advanced Topics/:
-Topics like virtualization, distributed systems, and OS security will be added as I progress.
+#### 01_Lecture: Operating System Concepts – Why We Need an OS
+### 02_Lecture: Types of Operating Systems
 
 ## Getting Started
 To explore the code and exercises in this repository:
