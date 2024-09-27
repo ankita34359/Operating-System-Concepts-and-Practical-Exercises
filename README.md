@@ -17,7 +17,7 @@ The repository will evolve as I progress through the learning process. It is div
 ## Folder Structure:
 
 #### 01_Lecture: Operating System Concepts – Why We Need an OS
-### 02_Lecture: Types of Operating Systems
+#### 02_Lecture: Types of Operating Systems
 
 ## Getting Started
 To explore the code and exercises in this repository:
